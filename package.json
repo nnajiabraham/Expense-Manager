@@ -1,8 +1,8 @@
 {
-  "name": "expense-manager",
+  "name": "expensify",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Andrew Mead/Abraham Nnaji",
+  "author": "Andrew Mead",
   "license": "MIT",
   "scripts": {
     "build:dev": "webpack",
@@ -24,6 +24,7 @@
     "express": "4.15.4",
     "extract-text-webpack-plugin": "3.0.0",
     "firebase": "4.2.0",
+    "history": "4.7.2",
     "moment": "2.18.1",
     "node-sass": "4.5.3",
     "normalize.css": "7.0.0",

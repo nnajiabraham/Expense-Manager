@@ -1,4 +1,4 @@
-///firbase rules
+///firebase rules
 {
   "rules": {
     ".read": false,
